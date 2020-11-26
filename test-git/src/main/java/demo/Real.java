@@ -6,4 +6,5 @@ public class Real {
 	private String date;
 	private String a;
 	private String b;
+	private String c;
 }
