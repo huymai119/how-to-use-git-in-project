@@ -5,4 +5,5 @@ public class Real {
 	private Integer ok;
 	private String date;
 	private String a;
+	private String b;
 }
